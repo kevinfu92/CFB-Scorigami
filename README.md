@@ -7,8 +7,8 @@ scorigami: https://en.wikipedia.org/wiki/Scorigami
 
 
 ## Pull Data
-To pull all score combinations (duplicates not included), "scorigami_data_pull.py" can be run and data will be stored at "historical_scorigami_scores.csv"<br>
-To pull all score combinations (duplicates included), "all_score_data_pull.py" can be run and data will be stored at "historical_all_FBS_scores.csv"
+ - To pull all score combinations (duplicates not included), "scorigami_data_pull.py" can be run and data will be stored at "historical_scorigami_scores.csv"<br>
+ - To pull all score combinations (duplicates included), "all_score_data_pull.py" can be run and data will be stored at "historical_all_FBS_scores.csv"
 
 ## Use Pulled Data to Check for Scorigami
 To check whether there is a scorigami, run "scorigami_check.py" and change the week/year to most recent one. It will tell you whether or not there is a scorigami and which game it was!!<br>
