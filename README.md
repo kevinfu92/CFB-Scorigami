@@ -13,3 +13,4 @@ To pull all score combinations (duplicates included), "all_score_data_pull.py" c
 ## Use Pulled Data to Check for Scorigami
 To check whether there is a scorigami, run "scorigami_check.py" and change the week/year to most recent one. It will tell you whether or not there is a scorigami and which game it was!!
 To check the number of times each score combination occurred, run "FBS_score_frequency.py"
+To see the "map" of each score combination occurred before (and when it first occurred), scorigami from most recent year (2021 as of now), and potential score combinations for scorigami, run "FBS_scorigami.py"
